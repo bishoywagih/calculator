@@ -1,0 +1,14 @@
+{
+    "name": "bishoydev/calculator",
+    "description": "calculate number",
+    "type": "compoer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bishoy-wagih",
+            "email": "bishoywagih3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
